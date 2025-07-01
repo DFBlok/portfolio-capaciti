@@ -1,5 +1,7 @@
+"use client";
 import React from "react";
 import Experience from "@/app/components/experience";
+import { Typewriter } from "react-simple-typewriter";
 
 export default function About() {
   return (
@@ -8,15 +10,63 @@ export default function About() {
         <h1 className="relative text-4xl font-bold mb-8 uppercase inline-block after:block after:content-[''] after:w-16 after:h-1 after:bg-green-500 after:mx-auto after:mt-2">
           About Me
         </h1>
-        <p>I'm a Freelance front-end Developer</p>
-        <p className="mt-4 text-2xl">
-          I'm a Freelancer Front-end Developer with over 3 years of experience.
-          I'm from San Francisco. I code and create web elements for amazing
-          people around the world. I like work with new people. New people new
-          Experiences.
+        <p className="text-lg text-gray-200 mb-4">
+          I'm a Freelance{" "}
+          <span className="text-green-300 font-semibold">
+            <Typewriter
+              words={[
+                "Web Developer",
+                "Full-Stack Developer",
+                "React Enthusiast",
+                "AI Builder",
+              ]}
+              loop={true}
+              cursor
+              cursorStyle="|"
+              typeSpeed={70}
+              deleteSpeed={50}
+              delaySpeed={1500}
+            />
+          </span>
         </p>
-        <button className="mt-8 bg-green-500 text-white px-6 py-3 rounded-full hover:bg-green-600 transition-colors duration-300">
+        <p className="text-xl text-gray-400 leading-relaxed">
+          I'm a Front-End Developer with a strong foundation in full-stack
+          development and a passion for creating clean, responsive, and
+          user-focused web applications. With over 3 years of experience, I’ve
+          worked on diverse projects—from online booking platforms to AI-powered
+          educational tools—using technologies like React, Next.js, .NET Core,
+          Prisma, and MongoDB.
+        </p>
+
+        <p className="mt-4 text-xl text-gray-400 leading-relaxed">
+          I’m constantly learning and enjoy collaborating with others to build
+          solutions that are both beautiful and functional. Whether it's
+          implementing seamless payment systems with Stripe or building scalable
+          APIs, I take pride in writing code that delivers real value.
+        </p>
+
+        <p className="mt-4 text-xl text-gray-400 leading-relaxed">
+          Currently, I’m looking for exciting opportunities where I can grow as
+          a developer, contribute to meaningful projects, and be part of a team
+          that values creativity, learning, and innovation.
+        </p>
+        {/*         <button className="mt-8 bg-green-500 text-white px-6 py-3 rounded-full hover:bg-green-600 transition-colors duration-300">
           Contact Me
+        </button> */}
+        <button className="group mt-8 relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-semibold text-white bg-green-500 rounded-full shadow-lg transition-all duration-300 ease-out hover:bg-green-600 hover:shadow-xl">
+          <span className="absolute inset-0 w-full h-full transition-all duration-300 ease-out transform scale-0 group-hover:scale-100 group-hover:bg-white opacity-10 rounded-full"></span>
+          <span className="relative z-10 flex items-center gap-2">
+            Contact Me
+            <svg
+              className="w-4 h-4 transition-transform duration-300 transform group-hover:translate-x-1"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              viewBox="0 0 24 24"
+            >
+              <path d="M5 12h14M12 5l7 7-7 7" />
+            </svg>
+          </span>
         </button>
         <hr className="m-6" />
         <h1 className="relative text-4xl font-bold mb-6 uppercase inline-block after:block after:content-[''] after:w-12 after:h-1 after:bg-green-500 after:mx-auto after:mt-2">

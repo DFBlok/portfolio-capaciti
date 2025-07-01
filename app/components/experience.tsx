@@ -9,10 +9,13 @@ const education = () => {
             <div className='resume-row'>
               <div className='row'>
                 <div>
-                  <div>
-                    <img src="./a1.png" alt="" />
+                  <div className='rb-left'>
+                    <img src="/a1.png" alt="" />
                   </div>
-                  <div>
+                  <div className='col-sm-9 col-m-xl-10'>
+
+                  </div>
+                  <div className='rb-right'>
                     <h6>Front-End Developer</h6>
                     <label>WeLab | Remote | Jan 2019 - Present </label>
                     <div className='rb-time'>

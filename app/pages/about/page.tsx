@@ -28,17 +28,21 @@ export default function About() {
             <ul>
               <li className="mb-4">
                 <span className="bg-green-500 px-3 py-1 rounded-full text-sm">
-                  2012-2024
+                  2020-2022
                 </span>
-                <h6 className="font-bold pl-5 mt-3">Graphic Designer</h6>
-                <p className="pl-5">International Design Institute</p>
+                <h6 className="font-bold pl-5 mt-3">
+                  Diploma in IT(Software Development)
+                </h6>
+                <p className="pl-5">Nelson Mandela University</p>
               </li>
               <li className="mb-4">
                 <span className="bg-green-500 px-3 py-1 rounded-full text-sm">
-                  2013-2015
+                  2019-2019
                 </span>
-                <h6 className="font-bold pl-5 mt-3">Web Designer</h6>
-                <p className="pl-5">Digital Media School</p>
+                <h6 className="font-bold pl-5 mt-3">
+                  Higher Certificate in User Support Service
+                </h6>
+                <p className="pl-5">Nelson Mandela University</p>
               </li>
             </ul>
           </div>
@@ -60,6 +64,24 @@ export default function About() {
               <i className="devicon-react-plain text-4xl colored hexagon-wrapper"></i>
               <i className="devicon-python-plain text-4xl colored hexagon-wrapper"></i>
               <i className="devicon-docker-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-mongodb-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-postgresql-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-nextjs-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-tailwindcss-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-typescript-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-figma-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-vercel-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-postman-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-prisma-plain text-4xl colored hexagon-wrapper"></i>
+              <i className="devicon-aspnet-plain text-4xl colored hexagon-wrapper">
+                <div className="w-12 h-12">
+                  <img
+                    src="/icons/huggingface.svg"
+                    alt="hugginface"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+              </i>
             </div>
           </div>
         </div>

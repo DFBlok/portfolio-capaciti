@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const contactPage = () => {
   return (
-    <div>
-        <h2>This is contact page</h2>
+    <div className="bg-gradient-to-b from-[#0f172a] to-[#1e293b]">
+      <h2>This is contact page..</h2>
     </div>
-  )
-}
+  );
+};
 
-export default contactPage
+export default contactPage;

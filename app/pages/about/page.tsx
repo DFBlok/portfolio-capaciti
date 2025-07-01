@@ -1,9 +1,10 @@
 import React from 'react'
+import Experience from '@/app/components/experience'
 
 export default function About() {
   return (
     <>
-      <main className="max-w-4xl mx-auto py-16 px-4 min-h-screen">
+      <main className="max-w-4xl mx-auto py-16 px-4 min-h-screen ">
           <h1 className="relative text-4xl font-bold mb-8 uppercase inline-block after:block after:content-[''] after:w-16 after:h-1 after:bg-green-500 after:mx-auto after:mt-2">About Me</h1>
         <p>
           I'm a Freelance front-end Developer
@@ -62,7 +63,7 @@ export default function About() {
     <i className='devicon-csharp-plain text-4xl colored hexagon-wrapper'></i>
   </div>
 </div>
-
+<Experience />
        
         </main>
     </>

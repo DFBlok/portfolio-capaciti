@@ -69,7 +69,7 @@ const Projects = () => {
   return (
     <section className="min-h-screen py-20 px-6 bg-gradient-to-b from-[#0f172a] to-[#1e293b] text-gray-900 ">
       <div className="max-w-6xl mx-auto">
-        <h1 className="text-4xl font-bold mb-10 text-accent text-center">
+        <h1 className="text-4xl font-bold text-white mb-10 text-accent text-center">
           Projects
         </h1>
         <p className="text-sm text-gray-400 mb-10 text-accent text-center">

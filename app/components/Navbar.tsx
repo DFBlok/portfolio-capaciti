@@ -13,7 +13,7 @@ export default function Navbar() {
   const pathname = usePathname();
 
   return (
-    <nav className="bg-dark p-4 shadow-md sticky top-0 z-50">
+    <nav className="bg-gradient-to-b from-[#0f172a] to-[#1e293b] p-4 shadow-md sticky top-0 z-50">
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <span className="text-accent text-xl font-bold">Duwayne Blok</span>
         <div className="space-x-4">

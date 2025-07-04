@@ -5,24 +5,6 @@ export default function Footer() {
         <p className="text-sm">
           &copy; {new Date().getFullYear()} Duwayne Blok. All rights reserved.
         </p>
-        <div className="mt-2 space-x-4">
-          <a
-            href="https://github.com/duwayneblok"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:underline"
-          >
-            GitHub
-          </a>
-          <a
-            href="https://www.linkedin.com/in/duwayneblok"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:underline"
-          >
-            LinkedIn
-          </a>
-        </div>
       </div>
     </footer>
   );

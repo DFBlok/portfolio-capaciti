@@ -11,7 +11,7 @@ const Projects = () => {
       tech: ["Botpress", "Hugging Face", "React", "Tailwind"],
       image: "/ai-chatbot.jpg",
       github: "https://github.com/duwayneblok/ai-chatbot",
-      demo: "https://ai-edu-chatbot-demo.vercel.app",
+      demo: "https://cdn.botpress.cloud/webchat/v3.0/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/14/06/20250514063834-O1X9R03B.json",
       video: "/videos/Blok_Duwayne_AIChatbot_Demo.mp4",
     },
     {

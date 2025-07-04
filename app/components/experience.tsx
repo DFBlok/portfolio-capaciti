@@ -3,14 +3,24 @@ import ExperineceCard from "./ExperineceCard";
 
 const experienceData = [
   {
-    image: "/a1.png",
-    title: "Front-End Developer",
-    company: "WeLab",
-    location: "Remote",
-    period: "Jan 2019 - Present",
+    image: "/logos/capaciti-logo.jpeg",
+    title: "IT Suuport Traning",
+    company: "Capaciti",
+    location: "GQ, South Africa",
+    period: "May 2025 - Present",
     type: "Full Time",
     description:
-      "Worked on developing responsive UI components and integrating REST APIs. Contributed to performance optimization and cross-browser compatibility fixes.",
+      "Currently enrolled in a hands-on IT Support training program with Capaciti focused on building core technical support skills. The program covers essential areas including hardware and software troubleshooting, operating system support (Windows & Linux), network fundamentals, ticketing systems, and customer service best practices and AI essentials. I'm also gaining exposure to real-world IT environments, remote support tools, and documentation processes, preparing for roles such as IT Technician or Desktop Support Specialist",
+  },
+  {
+    image: "/logos/velisa-logo.jpeg",
+    title: "Full-Stack Developer",
+    company: "Velisa Africa Academy",
+    location: "Remote",
+    period: "Feb 2024 - Oct 2024",
+    type: "Contract",
+    description:
+      "Built and deployed full-stack application using the MERN stack(MongoDB, Express.js, React.js, Node.js), applying RESTful API's, CRUD operations and responsive UI design. Learned web development fundamentals, full-stack app development. Gained experience in debugging, testing and deploying processes. Completed final capstone project demonstrating end-to-end development and problem-solving. ",
   },
 ];
 

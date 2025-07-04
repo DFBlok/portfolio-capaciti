@@ -20,7 +20,7 @@ const ExperineceCard = ({
       </div>
 
       <div className="flex-1">
-        <h6 className="text-xl font-semibold mb-1">{title}</h6>
+        <h6 className="text-xl font-semibold mb-1 text-gray-800">{title}</h6>
         <p className="text-sm text-gray-500 mb-2">
           {company} | {location} | {period}
         </p>

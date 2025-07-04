@@ -4,7 +4,7 @@ import ExperineceCard from "./ExperineceCard";
 const experienceData = [
   {
     image: "/logos/capaciti-logo.jpeg",
-    title: "IT Suuport Traning",
+    title: "IT Support Associate",
     company: "Capaciti",
     location: "GQ, South Africa",
     period: "May 2025 - Present",

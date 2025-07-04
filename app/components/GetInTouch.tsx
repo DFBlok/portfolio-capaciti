@@ -32,7 +32,7 @@ const GetInTouch = () => {
           <div className="bg-white/10 backdrop-blur p-6 rounded-2xl text-center shadow-md hover:shadow-lg transition">
             <i className="devicon-apple-original colored text-4xl mb-3"></i>
             <h3 className="text-lg font-semibold mb-2">Phone</h3>
-            <p className="text-gray-300 text-sm">+27 61 234 5678</p>
+            <p className="text-gray-300 text-sm">+27 63 103 1668</p>
           </div>
 
           {/* Address */}
@@ -50,7 +50,7 @@ const GetInTouch = () => {
             <h3 className="text-lg font-semibold mb-2">Socials</h3>
             <div className="flex justify-center gap-4 mt-2 text-3xl">
               <a
-                href="https://github.com/duwayneblok"
+                href="https://github.com/DFBlok"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-green-400 transition"
@@ -58,7 +58,7 @@ const GetInTouch = () => {
                 <i className="devicon-github-original colored"></i>
               </a>
               <a
-                href="https://linkedin.com/in/duwayneblok"
+                href="hhttps://www.linkedin.com/in/duwayne-blok-9bb2b8184"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-green-400 transition"

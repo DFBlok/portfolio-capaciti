@@ -2,6 +2,7 @@
 import React from "react";
 import Experience from "@/app/components/experience";
 import { Typewriter } from "react-simple-typewriter";
+import Badges from "@/app/components/Badges";
 
 export default function About() {
   return (
@@ -138,6 +139,12 @@ export default function About() {
             </div>
           </div>
           <hr />
+          <div>
+            <h2 className="relative text-4xl font-bold mt-6 uppercase inline-block after:block after:content-[''] after:w-12 after:h-1 after:bg-green-500 after:mx-auto after:mt-2">
+              {">"}Certifcations & Badges
+            </h2>
+            <Badges />
+          </div>
 
           <hr />
 

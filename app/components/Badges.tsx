@@ -50,6 +50,14 @@ const badges: BadgesProps[] = [
     certificateUrl:
       "https://www.credly.com/badges/810dbac4-d07a-4821-98c5-a3e51ecce954/public_url",
   },
+  {
+    title: "Project Management Fundamentals",
+    imageUrl: "/badges/project-management-fundamentals.png",
+    platform: "IBM SkillsBuild",
+    date: "2025-07-18",
+    certificateUrl:
+      "https://www.credly.com/badges/a0507537-23dc-4894-b669-8d115976924d/public_url",
+  },
 ];
 
 export default function Badges() {

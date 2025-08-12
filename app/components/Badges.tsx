@@ -58,6 +58,14 @@ const badges: BadgesProps[] = [
     certificateUrl:
       "https://www.credly.com/badges/a0507537-23dc-4894-b669-8d115976924d/public_url",
   },
+  {
+    title: "IT Support - Capaciti",
+    imageUrl: "/badges/IT_Support_GQHUB.png",
+    platform: "Coursera",
+    date: "2025-08-12",
+    certificateUrl:
+      "https://coursera.org/share/1824585e0dcd1b43fba9c69b6dfbac03",
+  },
 ];
 
 export default function Badges() {

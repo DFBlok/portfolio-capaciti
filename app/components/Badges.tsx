@@ -77,6 +77,12 @@ const badges: BadgesProps[] = [
     platform: "Microsoft",
     date: "2025-08-19",certificateUrl:
       "https://learn.microsoft.com/api/achievements/share/en-us/DuwayneBlok-3860/9YSET38U?sharingId=F5A9721BC5B88961", 
+  },{
+    title: "MS-900 Introduction to Microsoft 365: Describe security, compliance, privacy, and trust in Microsoft 365",
+    imageUrl: "/badges/microsoft-365-security-and-compliance-capabilities.svg",
+    platform: "Microsoft",
+    date: "2025-08-28",certificateUrl:
+      "https://learn.microsoft.com/api/achievements/share/en-us/DuwayneBlok-3860/URLS7SX3?sharingId=F5A9721BC5B88961",
   },
 ];
 

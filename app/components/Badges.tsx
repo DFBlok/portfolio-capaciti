@@ -65,6 +65,12 @@ const badges: BadgesProps[] = [
     date: "2025-08-12",
     certificateUrl:
       "https://coursera.org/share/1824585e0dcd1b43fba9c69b6dfbac03",
+  },{
+    title: "Introduction to Microsoft Azure: Describe Cloud Concepts",
+    imageUrl: "/badges/microsoft-azure-fundamentals-describe-cloud-concepts.svg",
+    platform: "Microsoft",date: "2025-07-23",
+    certificateUrl:
+      "https://learn.microsoft.com/api/achievements/share/en-us/DuwayneBlok-3860/H7SEXLH8?sharingId=F5A9721BC5B88961", 
   },
 ];
 

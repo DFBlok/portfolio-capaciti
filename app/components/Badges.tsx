@@ -83,6 +83,12 @@ const badges: BadgesProps[] = [
     platform: "Microsoft",
     date: "2025-08-28",certificateUrl:
       "https://learn.microsoft.com/api/achievements/share/en-us/DuwayneBlok-3860/URLS7SX3?sharingId=F5A9721BC5B88961",
+  },{
+    title: "MS-900 Introduction to Microsoft 365: Describe Microsoft 365 pricing, licensing and support",
+    imageUrl: "/badges/microsoft-365-licensing-service-and-support.svg",
+    platform: "Microsoft",
+    date: "2025-08-21",certificateUrl:
+      "https://learn.microsoft.com/api/achievements/share/en-us/DuwayneBlok-3860/QSAZ4YXE?sharingId=F5A9721BC5B88961",
   },
 ];
 

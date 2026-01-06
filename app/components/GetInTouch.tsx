@@ -24,7 +24,7 @@ const GetInTouch = () => {
             <i className="devicon-google-plain colored text-4xl mb-3"></i>
             <h3 className="text-lg font-semibold mb-2">Email</h3>
             <p className="text-gray-300 text-sm break-all">
-              duwayneblok@gmail.com
+              duwayneblok01@gmail.com
             </p>
           </div>
 
@@ -58,7 +58,7 @@ const GetInTouch = () => {
                 <i className="devicon-github-original colored"></i>
               </a>
               <a
-                href="hhttps://www.linkedin.com/in/duwayne-blok-9bb2b8184"
+                href="https://www.linkedin.com/in/duwayne-blok-9bb2b8184"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-green-400 transition"

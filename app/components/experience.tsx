@@ -3,7 +3,7 @@ import ExperineceCard from "./ExperineceCard";
 
 const experienceData = [
   {
-    image: "/logos/cx.png",
+    image: "/logos/cx-icon.jpeg",
     title: "Zendesk Customer Support Intern",
     company: "CX Experts",
     location: "Remote",

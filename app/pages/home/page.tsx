@@ -80,7 +80,7 @@ export default function Home() {
 
         {/* Resume Button */}
         <a
-          href="/Duwayne-Blok-CV.pdf"
+          href="/Duwayne_Blok_CV(update-Jan-06).pdf"
           download
           className="group relative inline-flex items-center justify-center px-6 py-3 font-semibold text-white bg-green-500 rounded-full shadow-lg transition-all duration-300 ease-out hover:bg-green-600 hover:shadow-xl"
         >

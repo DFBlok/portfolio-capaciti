@@ -3,6 +3,15 @@ import ExperineceCard from "./ExperineceCard";
 
 const experienceData = [
   {
+    image: "/logos/cx.png",
+    title: "Zendesk Customer Support Intern",
+    company: "CX Experts",
+    location: "Remote",
+    period: "Nov 2025 - Present",
+    type: "Full Time",
+    description:
+      "As a CX Expert / Zendesk Customer Support Intern, I focused on creating high-quality Zendesk instances for businesses by applying the skills gained during training. This included implementing Zendesk Talk/Voice, self-service solutions, analytics, messaging, foundational support, and omnichannel agent workflows. I contributed to building support systems that improve operational efficiency and deliver world-class customer and agent experiences. By leveraging Zendesk’s unified platform and AI-powered tools, these solutions helped businesses manage support conversations more effectively, improve response times, and increase automation.",
+  },{
     image: "/logos/capaciti-logo.jpeg",
     title: "IT Support Associate",
     company: "Capaciti",

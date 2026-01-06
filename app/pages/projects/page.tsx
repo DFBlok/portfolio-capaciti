@@ -64,6 +64,23 @@ const Projects = () => {
       github: "https://github.com/Lisekho3/ai-accessebility-project-34",
       demo: "https://ai-accessebility-project-34.vercel.app/",
       video: "/videos/Accessibility_video.mp4",
+    },{
+      title: "Market Link",
+      category: "Solo Project",
+      description:
+        "Designed and configured a complete Zendesk support instance for MarketLink, centralizing multi-channel customer support through a web widget bot, email, and social media. Implemented automated ticket routing, internal collaboration via side conversations, CSAT tracking, and analytics using Zendesk Explore to support efficient operations and data-driven decision-making.",
+      tech: [
+        "Zendesk Suite",
+        "AI Intent Detection",
+        "Workflow Automation",
+        "Web Widget Bot",
+        "Email & Social Channel Intergration",
+        "CSAT & SLA ",
+      ],
+      image: "/marketlink-thumbnail.png",
+      github: "",
+      demo: "https://marketlink021.zendesk.com/hc/en-us"
+      /* video: "/videos/Accessibility_video.mp4", */
     },
   ];
   return (

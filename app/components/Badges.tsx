@@ -90,6 +90,24 @@ const badges: BadgesProps[] = [
     date: "2025-08-21",certificateUrl:
       "https://learn.microsoft.com/api/achievements/share/en-us/DuwayneBlok-3860/QSAZ4YXE?sharingId=F5A9721BC5B88961",
   },{
+    title: "Omnichannel Agent",
+    imageUrl: "/badges/omnichannel-agent.1.png",
+    platform: "Zendesk",
+    date: "2025-10-23",certificateUrl:
+      "https://www.credly.com/badges/361800ae-d7f9-4c96-8675-5369f9f7cdc7/public_url",
+  },{
+    title: "Foundational Support",
+    imageUrl: "/badges/foundational-support.png",
+    platform: "Zendesk",
+    date: "2025-10-27",certificateUrl:
+      "https://www.credly.com/badges/6790ac2b-0825-4568-a5c1-880424486c90/public_url",
+  },{
+    title: "Omnichannel Agent",
+    imageUrl: "/badges/omnichannel-agent.1.png",
+    platform: "Zendesk",
+    date: "2025-10-23",certificateUrl:
+      "https://www.credly.com/badges/361800ae-d7f9-4c96-8675-5369f9f7cdc7/public_url",
+  },{
     title: "Talk/Voice",
     imageUrl: "/badges/talk-voice.png",
     platform: "Zendesk",

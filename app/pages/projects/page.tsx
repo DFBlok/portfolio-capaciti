@@ -79,8 +79,8 @@ const Projects = () => {
       ],
       image: "/marketlink-thumbnail.png",
       github: "",
-      demo: "https://marketlink021.zendesk.com/hc/en-us"
-      /* video: "/videos/Accessibility_video.mp4", */
+      demo: "https://marketlink021.zendesk.com/hc/en-us",
+      video: "/videos/Market-Link-Demo.mp4",
     },
   ];
   return (

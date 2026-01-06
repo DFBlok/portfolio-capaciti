@@ -102,11 +102,17 @@ const badges: BadgesProps[] = [
     date: "2025-10-27",certificateUrl:
       "https://www.credly.com/badges/6790ac2b-0825-4568-a5c1-880424486c90/public_url",
   },{
-    title: "Omnichannel Agent",
-    imageUrl: "/badges/omnichannel-agent.1.png",
+    title: "Messaging",
+    imageUrl: "/badges/messaging.png",
     platform: "Zendesk",
-    date: "2025-10-23",certificateUrl:
-      "https://www.credly.com/badges/361800ae-d7f9-4c96-8675-5369f9f7cdc7/public_url",
+    date: "2025-11-05",certificateUrl:
+      "https://www.credly.com/badges/4259c307-ad0f-4287-881b-8ae79845296c/public_url",
+  },{
+    title: "Explore/Analytics",
+    imageUrl: "/badges/explore-analytics.png",
+    platform: "Zendesk",
+    date: "2025-11-05",certificateUrl:
+      "https://www.credly.com/badges/d0681392-8438-40cf-b30e-2675fc9b7592/public_url",
   },{
     title: "Talk/Voice",
     imageUrl: "/badges/talk-voice.png",

@@ -95,6 +95,12 @@ const badges: BadgesProps[] = [
     platform: "Zendesk",
     date: "2025-11-19",certificateUrl:
       "https://www.credly.com/badges/4794cec9-8427-4a92-90ef-2abd3fc07956/public_url",
+  },{
+    title: "Guide/Self-Service",
+    imageUrl: "/badges/guide-self-service.png",
+    platform: "Zendesk",
+    date: "2025-11-07",certificateUrl:
+      "https://www.credly.com/badges/fa9f0ba2-95db-41a9-8d35-e53e3476718a/public_url",
   },
 ];
 

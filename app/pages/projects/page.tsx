@@ -80,7 +80,8 @@ const Projects = () => {
       image: "/marketlink-thumbnail.png",
       github: "",
       demo: "https://marketlink021.zendesk.com/hc/en-us",
-      video: "/videos/Market-Link-Demo.mp4",
+      /* video: "/videos/Market-Link-Demo.mp4", */
+      youtube: "https://youtu.be/zXUtaqjPg4M",
     },
   ];
   return (
@@ -171,6 +172,18 @@ const Projects = () => {
                     Live Demo
                   </a>
                 )}
+                {project.youtube && (
+                  <a
+                    href={project.youtube}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="bg-red-600 text-white px-4 py-2 rounded-full text-sm hover:bg-red-700 transition"
+                    >
+                      ▶ Watch on YouTube
+                  </a>
+                )}
+                
+                
               </div>
             </div>
           ))}

@@ -89,6 +89,12 @@ const badges: BadgesProps[] = [
     platform: "Microsoft",
     date: "2025-08-21",certificateUrl:
       "https://learn.microsoft.com/api/achievements/share/en-us/DuwayneBlok-3860/QSAZ4YXE?sharingId=F5A9721BC5B88961",
+  },{
+    title: "Talk/Voice",
+    imageUrl: "/badges/talk-voice.png",
+    platform: "Zendesk",
+    date: "2025-11-19",certificateUrl:
+      "https://www.credly.com/badges/4794cec9-8427-4a92-90ef-2abd3fc07956/public_url",
   },
 ];
 

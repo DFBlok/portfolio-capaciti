@@ -134,7 +134,18 @@ export default function About() {
                       className="w-full h-full object-contain"
                     />
                   </div>
+                  
                 </i>
+                <i className="devicon-aspnet-plain text-4xl colored hexagon-wrapper">
+                <div className="w-12 h-12">
+                    <img
+                      src="/icons/Zendesk_logo.png"
+                      alt="zendesk"
+                      className="w-full h-full object-contain"
+                    />
+                  </div>                  
+                </i>
+
               </div>
             </div>
           </div>

@@ -12,7 +12,7 @@ const experienceData = [
     description:
       "As a CX Expert / Zendesk Customer Support Intern, I focused on creating high-quality Zendesk instances for businesses by applying the skills gained during training. This included implementing Zendesk Talk/Voice, self-service solutions, analytics, messaging, foundational support, and omnichannel agent workflows. I contributed to building support systems that improve operational efficiency and deliver world-class customer and agent experiences. By leveraging Zendesk’s unified platform and AI-powered tools, these solutions helped businesses manage support conversations more effectively, improve response times, and increase automation.",
   },{
-    image: "/logos/capaciti-logo.jpeg",
+    image: "/logos/capaciti-icon.png",
     title: "IT Support Associate",
     company: "Capaciti",
     location: "GQ, South Africa",
@@ -22,7 +22,7 @@ const experienceData = [
       "Currently enrolled in a hands-on IT Support training program with Capaciti focused on building core technical support skills. The program covers essential areas including hardware and software troubleshooting, operating system support (Windows & Linux), network fundamentals, ticketing systems, and customer service best practices and AI essentials. I'm also gaining exposure to real-world IT environments, remote support tools, and documentation processes, preparing for roles such as IT Technician or Desktop Support Specialist",
   },
   {
-    image: "/logos/velisa-logo.jpeg",
+    image: "/logos/velisa-africa-logo.png",
     title: "Full-Stack Developer",
     company: "Velisa Africa Academy",
     location: "Remote",
